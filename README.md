@@ -8,8 +8,6 @@ Features:-
 - Pure CSS
 - Super cool 😁
 
-# SHEET to JSON
-
 Using library, https://github.com/DiegoZoracKy/convert-excel-to-json
 
 ## PWA Configuration
